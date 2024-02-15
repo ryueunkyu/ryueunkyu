@@ -31,7 +31,7 @@
 
 ###
 
-<p align="center">I'm Jomi from Philippines<br><br>- 🔭 I’m studying Computer Science (1st year)<br>- 📚 I'm currently learning C <br>- ⚡ In my free time I play games or do coding</p>
+<p align="center">I'm Jomi from Philippines<br><br>- 🔭 I’m studying Computer Science (1st year)<br>- 📚 I'm currently learning C <br>- ⚡ In my free time, I play games or do coding</p>
 
 ###
 
